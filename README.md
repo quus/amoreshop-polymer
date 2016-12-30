@@ -1,1 +1,1 @@
-# polymer-test
+# Amorepacific Polymer Proof of Concept project
